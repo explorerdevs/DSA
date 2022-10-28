@@ -6,7 +6,7 @@ The best **Data Structures and Algorithms** challenges found on [LeetCode](https
 
 ## Table of Contents
 
-1. Two Sum
+1. [Two Sum](https://github.com/explorerdevs/DSA#two-sum)
 
 ## Interview Challenges
 
